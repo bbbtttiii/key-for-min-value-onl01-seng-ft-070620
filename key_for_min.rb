@@ -5,6 +5,6 @@ def key_for_min_value(name_hash)
   fruits = {"mango": 3, "papaya": 5, "berry": 12}
   fruits.sort
   fruits.map do |item, num|
-    fruits[]
+    fruits[0]
   end
 end
