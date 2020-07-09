@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   lowest_value = nil
   highest_value = nil
-  name_hash.map do |name, num|
+  name_hash.each do |name, num|
     
   end
 end
