@@ -14,4 +14,4 @@ def key_for_min_value(name_hash)
 end
 
 
-name_hash { "Ben": 28, "Bob": 42, "Joe": 99 }
+name_hash { Ben: 28, Bob: 42, Joe: 99 }
