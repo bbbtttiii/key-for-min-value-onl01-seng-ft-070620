@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   fruits = {"mango": 3, "papaya": 5, "berry": 12}
-  
+  fruits.map do |
 end
